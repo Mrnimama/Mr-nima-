@@ -1,7 +1,7 @@
 {
- "doccmd" : " ",
- "audcmd" : " ",
- "360pcmd" : " ",
- "480pcmd" : " ",
- "720pcmd" : " "
+ "doccmd" : "song3",
+ "audcmd" : "adusong3",
+ "360pcmd" : "video2",
+ "480pcmd" : "video2",
+ "720pcmd" : "video2"
 }
