@@ -1,7 +1,7 @@
 {
  "doccmd" : "song3",
- "audcmd" : "adusong3",
- "hdmidpid" : "video2",
- "480pcmd" : "video2",
- "hdpid" : "video2"
+ "audcmd" : "audsong3",
+ "sddlid" : "video2",
+ "sdmiddlid" : "video2",
+ "hddlid" : "video2"
 }
