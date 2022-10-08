@@ -1,7 +1,7 @@
 {
- "doccmd" : "song3",
- "audcmd" : "audsong3",
- "sddlid" : "video2",
- "sdmiddlid" : "video2",
- "hddlid" : "video2"
+ "doccmd" : "song2",
+ "audcmd" : "audiosong2",
+ "sddlid" : "ytmp4",
+ "sdmiddlid" : "ytmp4",
+ "hddlid" : "ytmp4"
 }
