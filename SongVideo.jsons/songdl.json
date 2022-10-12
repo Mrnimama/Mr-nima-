@@ -1,9 +1,9 @@
 {
- "doccmd" : "song2",
+ "doccmd" : "song3",
  "audcmd" : "audsong2",
- "sddlid" : "testvid",
- "mp144" : "testvid",
- "mp240" : "testvid",
- "sdmiddlid" : "testvid",
- "hddlid" : "testvid"
+ "sddlid" : "getvideo",
+ "mp144" : "144getvideo",
+ "mp240" : "240getvideo",
+ "sdmiddlid" : "480getvideo",
+ "hddlid" : "720getvideo"
 }
