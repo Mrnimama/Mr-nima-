@@ -1,6 +1,6 @@
 {
- "doccmd" : "song3",
- "audcmd" : "audiosong3",
+ "doccmd" : "ytmp3",
+ "audcmd" : "audio",
  "sddlid" : "ytmp4",
  "mp144" : "ytmp4",
  "mp240" : "ytmp4",
